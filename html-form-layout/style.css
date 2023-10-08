@@ -37,9 +37,9 @@ input {
 button {
     background-color: rgb(54, 54, 54);
     color: white;
-    padding: 20px;
+    padding: 15px;
     margin-left: 190px;
-    margin-right: 170px;
+    margin-right: 160px;
     border: 2px solid rgb(54, 54, 54);
     border-radius: 50px;
 }
