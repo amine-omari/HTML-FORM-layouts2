@@ -31,3 +31,6 @@ input {
     grid-template-columns: 1fr 1fr;
     gap: 80px;
 }
+#message-container {
+    padding-bottom: 100px;
+}
