@@ -22,13 +22,13 @@
         <div>
             <label for="email">EMAIL ADDRESS:</label>
             <br>
-            <input type="email" required title="must a valid email address" placeholder="Eg. example@gmail.com">
+            <input type="email" required pattern="[A-Za-z0-9]+@[a-z]+\.[a-z]{2,3}" title="must be a valid email address" placeholder="Eg. example@gmail.com">
         </div>
         <br>
         <div>
             <label for="password">PASSWORD:</label>
             <br>
-            <input title="must be at least 8 characters" pattern="[a-zA-Z0-9]" type="password" required>
+            <input title="must be at least 8 characters" pattern="[a-zA-Z0-9]{8,}" type="text" required>
         </div>
         <br>
         <div>
