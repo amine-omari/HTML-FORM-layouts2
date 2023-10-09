@@ -49,3 +49,7 @@ button:hover {
     cursor: pointer;
     border: 2px solid rgb(54, 54, 54);
 }
+p {
+    font-size: 12px;
+    color: gray;
+}
