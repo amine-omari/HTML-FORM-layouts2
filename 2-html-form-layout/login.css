@@ -22,3 +22,6 @@ header {
     flex-direction: column;
     justify-content: space-between;
 }
+.login-input {
+    padding: 15px 20px 15px 20px;
+}
