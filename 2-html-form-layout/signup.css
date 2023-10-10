@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(50, 122, 255);
+    font-family: Verdana;
+    margin: 80px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+.big-container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+header {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.login-container {
+    display: flex;
+    flex-direction: column;
+}
