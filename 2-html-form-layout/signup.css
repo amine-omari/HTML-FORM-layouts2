@@ -45,3 +45,8 @@ button:hover {
 p {
     text-align: center;
 }
+.facebook-container {
+    background-color: #3b5998;
+    border: 2px solid #3b5998;
+    color: white;
+}
