@@ -51,3 +51,8 @@ button:hover {
     border: 2px solid #3b5998;
     color: white;
 }
+.google-container {
+    color: gray;
+    border: 2px solid rgb(197, 197, 197);
+    background-color: white;
+}
