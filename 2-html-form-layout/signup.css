@@ -22,3 +22,7 @@ header {
     display: flex;
     flex-direction: column;
 }
+.login-input {
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+}
