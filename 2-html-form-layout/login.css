@@ -5,7 +5,7 @@ body {
     margin-left: 450px;
     margin-right: 450px;
 }
-form  {
+.big-container {
     background-color: white;
     border-radius: 10px;
     padding: 25px;
@@ -16,6 +16,7 @@ header {
     font-size: 40px;
     text-align: center;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 .login-container {
     display: flex;
@@ -35,8 +36,18 @@ button {
     font-size: 20px;
     border-radius: 10px;
 }
+button:hover {
+    background-color: orange;
+    border: 2px solid orange;
+    cursor: pointer;
+}
 .login-btn {
     background-color: rgb(63, 118, 247);
     color: white;
     border: 2px solid rgb(63, 118, 247);
+}
+.facebook-container {
+    background-color: #3b5998;
+    border: 2px solid #3b5998;
+    color: white;
 }
